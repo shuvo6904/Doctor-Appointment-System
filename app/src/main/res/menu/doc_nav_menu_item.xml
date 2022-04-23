@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/docHomeMenuId"
+            android:title="Home"
+            android:icon="@drawable/home_icon"/>
+
+        <item
+            android:id="@+id/docProfileMenuId"
+            android:title="Profile"
+            android:icon="@drawable/person_icon"/>
+
+        <item
+            android:id="@+id/docVisitingScheduleMenuId"
+            android:title="Visiting Schedule"
+            android:icon="@drawable/ic_baseline_schedule"/>
+
+
+        <item
+            android:id="@+id/docHelpMenuId"
+            android:title="Help"
+            android:icon="@drawable/help_icon"/>
+
+        <item
+            android:id="@+id/contactUsMenu1Id"
+            android:title="Contact Us"
+            android:icon="@drawable/contact_phone_icon"/>
+
+        <item
+            android:id="@+id/docLogoutMenuId"
+            android:title="Logout"
+            android:icon="@drawable/ic_logout"/>
+    </group>
+
+</menu>

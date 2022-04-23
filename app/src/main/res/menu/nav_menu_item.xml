@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeMenuId"
+            android:title="Home"
+            android:icon="@drawable/home_icon"/>
+
+        <item
+            android:id="@+id/profileMenuId"
+            android:title="Profile"
+            android:icon="@drawable/person_icon"/>
+
+        <item
+            android:id="@+id/myAppointmentMenuId"
+            android:title="My Appointment"
+            android:icon="@drawable/assignment_icon"/>
+
+
+        <item
+            android:id="@+id/emergencyMenuId"
+            android:title="Ambulance Contact"
+            android:icon="@drawable/ambulance"/>
+
+        <item
+            android:id="@+id/contactUsMenuId"
+            android:title="Contact Us"
+            android:icon="@drawable/contact_phone_icon"/>
+    </group>
+
+</menu>

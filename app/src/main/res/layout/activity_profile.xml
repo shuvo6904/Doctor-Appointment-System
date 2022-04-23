@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#CBDADA"
+    tools:context=".ProfileActivity">
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/_15sdp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_200sdp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/editableProfileImageViewId"
+                android:layout_width="160dp"
+                android:layout_height="127dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/profile_img"
+                app:civ_border_color="#FFFFFF"
+                app:civ_border_width="2dp" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/changeProfileImageId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@+id/editableProfileImageViewId"
+                android:layout_alignBottom="@id/editableProfileImageViewId"
+                android:layout_marginEnd="17dp"
+                android:onClick="fabBtnProfile"
+                android:src="@drawable/ic_baseline_flip_camera_ios_24"
+                app:fabSize="mini" />
+
+            <TextView
+                android:id="@+id/profileNameId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editableProfileImageViewId"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="15dp"
+                android:text="Your Name"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/verifiedEmailButtonId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/profileNameId"
+                android:layout_centerInParent="true"
+                android:text="Verify Email"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/editableProfileNameId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:text="Your Name"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/editableProfileEmailId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/emailLayoutId"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginTop="30dp"
+            android:text="Your Email"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/editableProfilePhnNumId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/contactLayoutId"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginTop="30dp"
+            android:text="Your Contact Number"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+
+
+        <TextView
+            android:id="@+id/editProfileId"
+            android:textColor="#C81F1F"
+            android:textSize="@dimen/_17sdp"
+            android:layout_marginTop="@dimen/_40sdp"
+            android:layout_gravity="center"
+            android:text="Edit Profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

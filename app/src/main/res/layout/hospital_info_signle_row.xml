@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="7dp"
+        app:cardElevation="3dp"
+        app:cardUseCompatPadding="true"
+        android:id="@+id/hospitalInfoCardId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:background="#47B8C6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="3"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/hospitalImageViewId"
+                android:layout_margin="@dimen/_5sdp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_hospital_icon"
+                android:layout_weight="0.8"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_weight="2.2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:padding="@dimen/_3sdp"
+                    android:textColor="#BA2222"
+                    android:textSize="@dimen/_15ssp"
+                    android:textStyle="bold"
+                    android:id="@+id/hospitalNameTVId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hospital Name" />
+
+                <TextView
+                    android:textColor="#C13434"
+                    android:padding="@dimen/_3sdp"
+                    android:textSize="@dimen/_13ssp"
+                    android:id="@+id/hospitalAddressTVId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hospital Address" />
+
+                <TextView
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:textColor="#C13434"
+                    android:textSize="@dimen/_13ssp"
+                    android:id="@+id/hospitalContactTVId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hospital Contact Number" />
+
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Doctor Appointment</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string-array name="visit_day">
+
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+
+    </string-array>
+
+
+    <string-array name="visit_starting_time">
+
+        <item>9.00 am</item>
+        <item>10.00 am</item>
+        <item>11.00 am</item>
+        <item>12.00 pm</item>
+        <item>1.00 pm</item>
+        <item>2.00 pm</item>
+        <item>3.00 pm</item>
+        <item>4.00 pm</item>
+        <item>5.00 pm</item>
+        <item>6.00 pm</item>
+        <item>7.00 pm</item>
+        <item>8.00 pm</item>
+        <item>9.00 pm</item>
+
+    </string-array>
+
+    <string-array name="visit_ending_time">
+
+        <item>1.00 pm</item>
+        <item>2.00 pm</item>
+        <item>3.00 pm</item>
+        <item>4.00 pm</item>
+        <item>5.00 pm</item>
+        <item>6.00 pm</item>
+        <item>7.00 pm</item>
+        <item>8.00 pm</item>
+        <item>9.00 pm</item>
+        <item>10.00 pm</item>
+        <item>11.00 pm</item>
+        <item>12.00 am</item>
+
+    </string-array>
+
+    <string-array name="driver_phone">
+
+        <item>01681656781</item>
+        <item>01813538299</item>
+        <item>01712845516</item>
+        <item>01827575747</item>
+        <item>01731043478</item>
+        <item>01740825616</item>
+        <item>01828019851</item>
+        <item>01715383113</item>
+        <item>01822007666</item>
+        <item>01814168692</item>
+        <item>01971043478</item>
+        <item>01798204464</item>
+        <item>01885090000</item>
+        <item>01918521095</item>
+        <item>01812985896</item>
+        <item> 01911767556</item>
+        <item>01720606564</item>
+        <item>01887763605</item>
+        <item>01884166291</item>
+        <item>01838338399</item>
+
+    </string-array>
+
+    <string-array name="driver_name">
+
+        <item>Abdul Jolil</item>
+        <item>Modhu Bisas</item>
+        <item>Lokman Hossain</item>
+        <item>Badshah</item>
+        <item>Firoz</item>
+        <item>Hazi Din Mohammed Bhuiya</item>
+        <item>MD. Alauddin Abir</item>
+        <item>Asfaq Hossain</item>
+        <item>Mohammad Fahmid</item>
+        <item>Ripon</item>
+        <item>Shahin</item>
+        <item>Sohel</item>
+        <item>Sobhan</item>
+        <item>MD Mizanur Rahman</item>
+        <item>Shadat</item>
+        <item>Mohammad Akbar</item>
+        <item>Mohammed Abul kashem</item>
+        <item>Mohammad Ismail Hossain</item>
+        <item>Rubel</item>
+        <item>Roton</item>
+
+    </string-array>
+
+
+</resources>

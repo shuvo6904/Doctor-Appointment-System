@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/drawable/border_bg.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/drawable/ic_baseline_phone_in_talk_24.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/drawable/ic_hospital_icon.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/drawable/ic_profile.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/drawable/ic_profile_img.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/drawable/person_icon.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_admin_home.xml" value="0.25" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_appointment.xml" value="0.33" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_contact_ambulance.xml" value="0.22" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_contact_us.xml" value="0.33" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_doctor.xml" value="0.1" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_doctor_apply.xml" value="0.33" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_doctor_home.xml" value="0.1" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_doctor_list.xml" value="0.33528550512445093" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_doctor_schedule.xml" value="0.3625" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_my_appointment.xml" value="0.1" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_patient_login.xml" value="0.12" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_patient_registration.xml" value="0.22" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_pending_doctor.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_reset_pass.xml" value="0.15" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_update_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/activity_welcome_screen.xml" value="0.18" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/doc_nav_header.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/doctor_home_single_row.xml" value="0.25" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/doctor_info_single_row.xml" value="0.33" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/emergency_ambulance_row_item.xml" value="0.18" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/hospital_info_signle_row.xml" value="0.25" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/patient_my_appoint_single_row.xml" value="0.25" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/pending_doc_info_single_row.xml" value="0.2935185185185185" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/sample_spinner_view.xml" value="0.1" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/layout/visiting_day_list.xml" value="0.33" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/menu/doc_nav_menu_item.xml" value="0.33" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/menu/menu_admin_activity.xml" value="0.2" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/menu/menu_main_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Shuvo Talukdar/AndroidStudioProjects/DoctorAppointment/app/src/main/res/menu/nav_menu_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
